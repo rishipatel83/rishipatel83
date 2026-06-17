@@ -54,12 +54,6 @@
 ![](https://streak-stats.demolab.com/?user=rishipatel83&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rishipatel83&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 ### ✍️ A Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
