@@ -40,19 +40,23 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishipatel83&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishipatel83&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishipatel83&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=rishipatel83&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<!--<img height="169em" src="https://github-readme-stats.vercel.app/api?username=rishipatel83&theme=radical&hide_border=false&include_all_commits=false&count_private=false">-->
+</div>
+
+
+<!--# 📊 GitHub Stats:-->
+<div align="center" style= "display:flex; flex-wrap:wrap;">
+<!--![](https://github-readme-stats.shion.dev/api?username=rishipatel83&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
+
+  ![](https://streak-stats.demolab.com/?user=rishipatel83&theme=dark&hide_border=false)<br/>
+  <!--![](https://github-readme-stats.shion.dev/api/top-langs/?username=rishipatel83&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 </div>
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<div align="center" >
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-# 📊 GitHub Stats:
-<!--![](https://github-readme-stats.shion.dev/api?username=rishipatel83&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
-![](https://streak-stats.demolab.com/?user=rishipatel83&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rishipatel83&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ A Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
