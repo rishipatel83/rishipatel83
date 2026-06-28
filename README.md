@@ -58,8 +58,8 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### ✍️ A Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+<!--### ✍️ A Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)-->
 
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rishipatel83&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
