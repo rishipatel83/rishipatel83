@@ -12,7 +12,6 @@
 
 - 💬 Ask me about **React, Nextjs and web development**
 
-- ⚡ Fun fact **I think Messi is the Best!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,6 +64,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=rishipatel83&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 ---
-[![](https://komarev.com/ghpvc/?username=rishipatel83&icon=10&)](https://visitcount.itsvg.in)
+<!--[![](https://komarev.com/ghpvc/?username=rishipatel83&icon=10&)](https://visitcount.itsvg.in)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
