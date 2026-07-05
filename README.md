@@ -1,9 +1,10 @@
-# Hi 👋, I'm Rishi
+# Hi 👋, I'm Rishi 
 
 ### A passionate Web developer
 
 <p align="left"> <a href="https://twitter.com/rishipatel83_" target="blank"><img src="https://img.shields.io/twitter/follow/rishipatel83_?logo=twitter&style=for-the-badge" alt="rishipatel83_" /></a> </p>
 
+<!--
 - 🔭 I'm currently working on **Mystery Message NextJS project**
 
 - 🌱 I'm currently learning **NextJS and Typescript**
@@ -11,6 +12,7 @@
 - 👯 I'm looking to collaborate on **open source projects**
 
 - 💬 Ask me about **React, Nextjs and web development**
+-->
 
 
 <h3 align="left">Connect with me:</h3>
